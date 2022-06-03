@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+}
+
+.Navbar{
+  background-color: rgb(41, 39, 39);
+  margin-top: 10px;
+  height: 55px;
+  font-size: 30px;
+}
+.Navbar a{
+  color: white;
+  text-decoration: none;
+}
+.Navbar a:hover{
+  color: rgb(209, 211, 193);
+}
+body {
+  background: #dedede;
+}
+.page-wrap {
+  min-height: 100vh;
+}
